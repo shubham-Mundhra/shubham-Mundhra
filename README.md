@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shubham-Mundhra
 - 👀 I’m interested in solving issues that have been solved before. So I can learn to solve the ones that haven't been.
 - 🌱 I’m currently learning C++ because I consider it a good starting point.
-- 💞️ I’m looking to collaborate on nothing for now. At least till I learn the basics properly
-- 📫 How to reach me - thats something I would like to know to.
+- 💞️ I’m looking to collaborate on upcoming projects, create new ones and upgrade existing ones.
+- 📫 How to reach me - on WhatsApp and LinkedIn.
 
 <!---
 shubham-Mundhra/shubham-Mundhra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
